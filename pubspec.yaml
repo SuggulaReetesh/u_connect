@@ -1,0 +1,92 @@
+name: uconnect
+description: A new Flutter project.
+
+publish_to: 'none'  
+ 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+   
+  cupertino_icons: ^1.0.2
+  google_fonts: ^2.0.0
+  firebase_auth:
+  firebase_core:
+  google_sign_in:
+  shared_preferences:
+  random_string:
+  cloud_firestore:
+  material_floating_search_bar:
+  animated_splash_screen:
+  flutter_svg:
+  flutter_screenutil: ^5.1.1
+  intl_phone_field:
+  keyboard_actions:
+  firebase_storage:
+  firebase_messaging: 
+  flutter_local_notifications:
+  cached_network_image:
+  image_picker:
+  image_cropper:
+  photo_view:
+  url_launcher:
+  fluttertoast:
+  intl:
+  country_state_city_picker:
+  dropdown_formfield:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+ 
+ 
+
+ 
+flutter:
+  uses-material-design: true
+  assets:
+     - images/
+     - assets/images/
+  fonts:
+    - family: GreycliffCF
+      fonts:
+        - asset: assets/fonts/GreycliffCF-ExtraBold.ttf
+        - asset: assets/fonts/GreycliffCF-Medium.ttf
+          weight: 400  
+
+   
+   
+   
+   
+
+   
+   
+
+   
+   
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
